@@ -1,0 +1,18 @@
+.movie_image{
+    padding-top:50px;
+}
+.indicator {
+    cursor: pointer;
+    padding: 10px;
+    text-align: center;
+    border: 3px rgb(16, 2, 68) solid;
+    border-radius: 10px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:50px;
+  }
+  
+  .indicator.active {
+    color: #fff;
+    background: rgb(16, 2, 68);
+  }

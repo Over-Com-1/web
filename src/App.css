@@ -1,0 +1,6 @@
+.App {
+    text-align: center;
+    color:white;
+    background-image: linear-gradient(to bottom right, grey, rgba(5, 41, 109, 0.719)); /*그라데이션 바탕 색 지정*/
+  }
+
