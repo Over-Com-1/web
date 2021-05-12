@@ -1,0 +1,21 @@
+.name{
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-style:oblique;
+    font-weight:bolder;
+}
+.d-block{
+    width:980px;
+    margin-top: 600px;
+    margin :0 auto;
+}
+.container{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.z-depth-1 { 
+    align-items: center;
+    justify-content: center;
+}
